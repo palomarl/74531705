@@ -86,6 +86,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>* Please select a size.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T145940Z" creationid="carme" creationdate="20230516T145940Z">
+        <seg>*Seleccione la talla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>*Please Select Size</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T150007Z" creationid="carme" creationdate="20230516T150007Z">
+        <seg>*Seleccione la talla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>*Please select Color</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T145928Z" creationid="carme" creationdate="20230516T145928Z">
+        <seg>*Seleccione otro color.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>3 Pics</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T164955Z" creationid="OmegaT Aligner" creationdate="20230512T164955Z">
@@ -194,6 +218,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="carme" changedate="20230428T160355Z" creationid="carme" creationdate="20230428T160355Z">
         <seg>&lt;a9&gt;¿La masturbación tiene efectos secundarios?&lt;/a9&gt;&lt;br10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt; ---- &lt;/s0&gt; &lt;s1&gt; &lt;/s1&gt; &lt;s2&gt; Unavailable in &lt;s3&gt;&lt;/s3&gt; &lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T145949Z" creationid="carme" creationdate="20230516T145949Z">
+        <seg>&lt;s0&gt; ---- &lt;/s0&gt; &lt;s1&gt; &lt;/s1&gt; &lt;s2&gt; No disponible en &lt;s3&gt;&lt;/s3&gt; &lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1456,8 +1488,8 @@
       <tuv lang="en">
         <seg>For every time you round the board, you’ll collect a ring and the level of intimacy will increase.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T164955Z" creationid="OmegaT Aligner" creationdate="20230512T164955Z">
-        <seg>Por cada vuelta que des al tablero, recogerás un anillo y aumentará el nivel de intimidad.</seg>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T145736Z" creationid="OmegaT Aligner" creationdate="20230512T164955Z">
+        <seg>Por cada vuelta que des al tablero, obtendrás un anillo y aumentará el nivel de intimidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3014,6 +3046,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please select another color.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T145917Z" creationid="carme" creationdate="20230516T145917Z">
+        <seg>Seleccione otro color.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press the button in the base to turn the bullet on and change settings.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230516T142405Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
@@ -3504,8 +3544,8 @@
       <tuv lang="en">
         <seg>Special squares like the Massage Parlor or Erotic Dancing challenge you to get physical.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T164955Z" creationid="OmegaT Aligner" creationdate="20230512T164955Z">
-        <seg>Las casillas especiales, como el Salón de Masajes o el Baile Erótico, te retan a ponerte en forma.</seg>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T145721Z" creationid="OmegaT Aligner" creationdate="20230512T164955Z">
+        <seg>Las casillas especiales, como "Salón de Masajes" o "Baile Erótico", te retan a ponerte en forma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4000,8 +4040,8 @@
       <tuv lang="en">
         <seg>The winner then has the opportunity to choose a super-hot and sexy fantasy to act out from the ‘Fantasy’ cards they’ve collected.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T164955Z" creationid="OmegaT Aligner" creationdate="20230512T164955Z">
-        <seg>A continuación, el ganador tiene la oportunidad de elegir una fantasía supercaliente y sexy de entre las cartas de "Fantasía" que haya reunido.</seg>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T145800Z" creationid="OmegaT Aligner" creationdate="20230512T164955Z">
+        <seg>A continuación, el ganador tiene la oportunidad de elegir una fantasía super caliente y sexy de entre las cartas de "Fantasía" que haya reunido.</seg>
       </tuv>
     </tu>
     <tu>
