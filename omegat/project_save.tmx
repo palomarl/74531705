@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Charmeuse&lt;/s0&gt; – A lightweight fabric, the front is glossy whereas the back is dull.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145648Z" creationid="pguer" creationdate="20230516T145648Z">
+        <seg>Charmeuse - Es un tejido ligero, el anverso es brillante y el reverso mate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Cotton&lt;/s0&gt; - is a natural fiber that allows the skin to breathe and comes in great colors.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230516T143939Z" creationid="pguer" creationdate="20230516T143939Z">
@@ -202,6 +210,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230516T144329Z" creationid="pguer" creationdate="20230516T144329Z">
         <seg>Piel sintética: es un material artificial que se utiliza sobre todo en la lencería más atrevida. La piel sintética puede tener diferentes apariencias, desde el charol hasta el plástico (también conocido como PVC).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Lingerie Fabrics&lt;/s0&gt;&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145403Z" creationid="pguer" creationdate="20230516T145403Z">
+        <seg>Tejidos para lencería</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Microfiber&lt;/s0&gt; – A man made blend of polyester and polyamide, frabics made with microfibers are exceptionally soft and hold their shape well.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145336Z" creationid="pguer" creationdate="20230516T145336Z">
+        <seg>Microfibra - Mezcla sintética de poliéster y poliamida. Los tejidos hechos de microfibra son muy suaves y mantienen bien su forma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Nylon&lt;/s0&gt; – most commonly remembered for nylon stockings or “nylons”, nylon is used in many easy to care for garments.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230516T144854Z" creationid="pguer" creationdate="20230516T144854Z">
@@ -234,6 +258,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230516T144926Z" creationid="pguer" creationdate="20230516T144926Z">
         <seg>Poliéster - No es sólo para señoras mayores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Rayon&lt;/s0&gt; – a less expensive and more durable substitute for silk, rayon is often blended with other fibers.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145143Z" creationid="pguer" creationdate="20230516T145143Z">
+        <seg>Rayón: es el sustituto de la seda, ya que es más barato y más duradero. El rayón suele mezclarse con otras fibras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -434,6 +466,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230428T162257Z" creationid="pguer" creationdate="20230428T162257Z">
         <seg>Sin embargo, todos los vibradores tienen una cosa en común: un motor estimulante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also a synthetic material.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145249Z" creationid="pguer" creationdate="20230516T145249Z">
+        <seg>También es un material sintético.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1262,6 +1302,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fabrics are any form of woven textile.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145528Z" creationid="pguer" creationdate="20230516T145528Z">
+        <seg>Los tejidos son cualquier tipo de materia textil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Faux leather is usually easy to clean, tend to be more durable and sometimes have a lining.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230516T144441Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
@@ -2040,8 +2088,8 @@
       <tuv lang="en">
         <seg>It is comfortable and drapes well but based on whether it’s blended or not may require more effort in the care department.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T140948Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
-        <seg>Es cómodo y tiene buena caída, pero dependiendo de si está mezclado o no, puede requerir más cuidados.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145245Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
+        <seg>Es cómodo y queda bien, pero dependiendo de si está mezclado o no con otro material, puede requerir más cuidados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2122,6 +2170,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T140948Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
         <seg>El vibrador tarda unas 2 horas en recargarse por completo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It too is easy to care for.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145035Z" creationid="pguer" creationdate="20230516T145035Z">
+        <seg>También es fácil de cuidar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4032,8 +4088,8 @@
       <tuv lang="en">
         <seg>These fibers have an excellent moisture removal or wicking quality and are easy to care for.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T140948Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
-        <seg>Estas fibras eliminan muy bien la humedad y son fáciles de cuidar.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145355Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
+        <seg>Las microfibras eliminan muy bien la humedad y son fáciles de cuidar.</seg>
       </tuv>
     </tu>
     <tu>
