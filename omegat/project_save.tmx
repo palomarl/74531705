@@ -214,6 +214,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Nylon&lt;/s0&gt; – most commonly remembered for nylon stockings or “nylons”, nylon is used in many easy to care for garments.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T144854Z" creationid="pguer" creationdate="20230516T144854Z">
+        <seg>Nylon - es más conocido por las medias de nylon o "nylons". El nylon se utiliza en muchas prendas fáciles de cuidar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Polyester&lt;/s0&gt; – It’s not just for old ladies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T144926Z" creationid="pguer" creationdate="20230516T144926Z">
+        <seg>Poliéster - No es sólo para señoras mayores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Silk&lt;/s0&gt; – also a natural fiber that is popular lingerie material that feels sexy against the skin and has beautiful movement.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230516T144049Z" creationid="pguer" creationdate="20230516T144049Z">
@@ -2118,6 +2134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Nylon is a synthetic material also.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T144913Z" creationid="pguer" creationdate="20230516T144913Z">
+        <seg>El nailon también es un material sintético.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Odds are that everyone you meet during the day masturbates.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="carme" changedate="20230516T142943Z" creationid="OmegaT Aligner" creationdate="20230512T163540Z">
@@ -3192,8 +3216,8 @@
       <tuv lang="en">
         <seg>This man made material is designed to stretch, resist wrinkling and is durable, qualities that make it popular for blending with other fibers.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T140948Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
-        <seg>Este material artificial está diseñado para estirarse, resistir las arrugas y ser duradero, cualidades que lo hacen popular para mezclarlo con otras fibras.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145025Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
+        <seg>Este material artificial está diseñado para estirarse, resistir a las arrugas y ser duradero. Estas cualidades lo hacen popular para mezclarlo con otras fibras.</seg>
       </tuv>
     </tu>
     <tu>
