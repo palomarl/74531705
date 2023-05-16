@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>* Please select a color.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T145407Z" creationid="carme" creationdate="20230516T145407Z">
+        <seg>* Seleccione un color.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>3 Pics</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T164955Z" creationid="OmegaT Aligner" creationdate="20230512T164955Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="palom" changedate="20230516T143705Z" creationid="palom" creationdate="20230516T143705Z">
         <seg>Materiales: 92% de poliamida, 8% de elastán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/s0&gt; &lt;s2&gt; &lt;/s2&gt; &lt;s3&gt; Unavailable in &lt;s4&gt;&lt;/s4&gt; &lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T145416Z" creationid="carme" creationdate="20230516T145416Z">
+        <seg>&lt;/s0&gt; &lt;s2&gt; &lt;/s2&gt; &lt;s3&gt; No disponible en &lt;s4&gt;&lt;/s4&gt; &lt;br5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -976,8 +992,8 @@
       <tuv lang="en">
         <seg>Celebrate and discover all new sexy possibilities, whether you’re a new couple or have been together for years!</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T164955Z" creationid="OmegaT Aligner" creationdate="20230512T164955Z">
-        <seg>Celebrad y descubrid todas las nuevas posibilidades sensuales, tanto si sois una pareja nueva como si lleváis años juntos.</seg>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T145452Z" creationid="OmegaT Aligner" creationdate="20230512T164955Z">
+        <seg>Celebrad y descubrid todas las nuevas posibilidades sensuales, ¡tanto si sois una pareja nueva como si lleváis años juntos!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2656,8 +2672,8 @@
       <tuv lang="en">
         <seg>Monogamy squares direct you to pick a card.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T164955Z" creationid="OmegaT Aligner" creationdate="20230512T164955Z">
-        <seg>Las casillas de Monogamia te indican que elijas una carta.</seg>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T145639Z" creationid="OmegaT Aligner" creationdate="20230512T164955Z">
+        <seg>Las casillas "Monogamia" te indican que elijas una carta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3640,8 +3656,8 @@
       <tuv lang="en">
         <seg>The Drink and Food squares let you sip or nibble seductively.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T164955Z" creationid="OmegaT Aligner" creationdate="20230512T164955Z">
-        <seg>Las casillas Bebida y Comida te permiten sorber o mordisquear seductoramente.</seg>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T145646Z" creationid="OmegaT Aligner" creationdate="20230512T164955Z">
+        <seg>Las casillas "Bebida y Comida" te permiten sorber o mordisquear de una forma seductora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3696,8 +3712,8 @@
       <tuv lang="en">
         <seg>The Strip square directs you to take off an article of clothing.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T164955Z" creationid="OmegaT Aligner" creationdate="20230512T164955Z">
-        <seg>La casilla Desnúdate te obliga a quitarte una prenda de ropa.</seg>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T145655Z" creationid="OmegaT Aligner" creationdate="20230512T164955Z">
+        <seg>La casilla "Desnúdate" te obliga a quitarte una prenda de ropa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4288,8 +4304,8 @@
       <tuv lang="en">
         <seg>This two-player game sets you both racing your pieces around a game board filled with exciting questions, naughty fantasies, and steamy dares.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T164955Z" creationid="OmegaT Aligner" creationdate="20230512T164955Z">
-        <seg>Este juego para dos jugadores os pone a ambos a competir con vuestras piezas en un tablero de juego lleno de preguntas excitantes, fantasías traviesas y atrevidos retos.</seg>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T145544Z" creationid="OmegaT Aligner" creationdate="20230512T164955Z">
+        <seg>Este juego para dos jugadores hace que ambos compitáis con vuestras fichas en un tablero de juego lleno de preguntas excitantes, fantasías traviesas y retos atrevidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4336,8 +4352,8 @@
       <tuv lang="en">
         <seg>To play, take turns rolling the die to move around the game board.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T164955Z" creationid="OmegaT Aligner" creationdate="20230512T164955Z">
-        <seg>Para jugar, lanza el dado por turnos y muévete por el tablero.</seg>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T145552Z" creationid="OmegaT Aligner" creationdate="20230512T164955Z">
+        <seg>Para jugar, lanzad el dado por turnos y moveos por el tablero.</seg>
       </tuv>
     </tu>
     <tu>
