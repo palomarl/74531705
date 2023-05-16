@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Lingerie Materials&lt;/s0&gt;&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T143420Z" creationid="pguer" creationdate="20230516T143420Z">
+        <seg>Materiales de la lencería</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Take me to:&lt;/s0&gt;&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="carme" changedate="20230428T160310Z" creationid="carme" creationdate="20230428T160310Z">
@@ -2544,8 +2552,8 @@
       <tuv lang="en">
         <seg>That can make buying lingerie more than a little confusing, especially if you're not sure what all the different terms mean.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T140948Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
-        <seg>Esto puede hacer que la compra de lencería sea un poco confusa, sobre todo si no estás segura de lo que significan los distintos términos.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T143412Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
+        <seg>Esto puede hacer un poco confusa la compra de lencería, sobre todo si no estás segura de lo que conlleva acda elección.</seg>
       </tuv>
     </tu>
     <tu>
