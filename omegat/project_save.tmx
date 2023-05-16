@@ -134,10 +134,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Cotton&lt;/s0&gt; - is a natural fiber that allows the skin to breathe and comes in great colors.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T143939Z" creationid="pguer" creationdate="20230516T143939Z">
+        <seg>Algodón: es una fibra natural que deja a la piel respirar y está disponible en magníficos colores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Lingerie Materials&lt;/s0&gt;&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230516T143420Z" creationid="pguer" creationdate="20230516T143420Z">
         <seg>Materiales de la lencería</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Silk&lt;/s0&gt; – also a natural fiber that is popular lingerie material that feels sexy against the skin and has beautiful movement.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T144049Z" creationid="pguer" creationdate="20230516T144049Z">
+        <seg>Seda: también es una fibra natural, un material muy popular en lencería por su tacto sexy sobre la piel y su bonito movimiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -760,8 +776,8 @@
       <tuv lang="en">
         <seg>Cotton washes well and is pretty durable but beware of possible shrinkage.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T140948Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
-        <seg>El algodón se lava bien y es bastante duradero, pero ten cuidado con el posible encogimiento.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T144006Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
+        <seg>El algodón se lava bien y es bastante duradero, pero ten cuidado porque es posible que se encoja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3016,8 +3032,8 @@
       <tuv lang="en">
         <seg>These materials are what makes up your favorite fabric - whether it's a fishnet made from 100% nylon or a mesh made from a polyester and spandex blend.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T140948Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
-        <seg>Estos materiales son los que componen tu tejido favorito, ya sea una red hecha 100% de nailon o una malla fabricada con una mezcla de poliéster y &lt;t0/&gt;elastano&lt;t1/&gt;.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T143848Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
+        <seg>Estos materiales son los que componen tu tejido favorito, ya sea una redecilla hecha 100% de nailon o una malla fabricada con una mezcla de poliéster y elastano.</seg>
       </tuv>
     </tu>
     <tu>
