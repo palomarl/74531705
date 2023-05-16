@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Chiffon&lt;/s0&gt; – Sheer, lightweight, thin fabric made of nylon, rayon or silk.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145724Z" creationid="pguer" creationdate="20230516T145724Z">
+        <seg>Chiffon - Tejido fino, ligero y transparente de nailon, rayón o seda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Cotton&lt;/s0&gt; - is a natural fiber that allows the skin to breathe and comes in great colors.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230516T143939Z" creationid="pguer" creationdate="20230516T143939Z">
@@ -226,6 +234,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230516T144329Z" creationid="pguer" creationdate="20230516T144329Z">
         <seg>Piel sintética: es un material artificial que se utiliza sobre todo en la lencería más atrevida. La piel sintética puede tener diferentes apariencias, desde el charol hasta el plástico (también conocido como PVC).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Jacquard&lt;/s0&gt; – Fabric that is woven to create and effect of a pattern or print.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145749Z" creationid="pguer" creationdate="20230516T145749Z">
+        <seg>Jacquard - Tejido que se teje con la intención de crear un efecto de patrón o estampado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Mesh&lt;/s0&gt; – Is full of small openings and can be sheer to semi-sheer.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145814Z" creationid="pguer" creationdate="20230516T145814Z">
+        <seg>Malla - está llena de pequeñas aberturas y puede ser transparente o semitransparente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Microfiber&lt;/s0&gt; – A man made blend of polyester and polyamide, frabics made with microfibers are exceptionally soft and hold their shape well.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230516T145336Z" creationid="pguer" creationdate="20230516T145336Z">
@@ -270,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Opaque&lt;/s0&gt; – A fabric in which the body cannot be seen through the garment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145827Z" creationid="pguer" creationdate="20230516T145827Z">
+        <seg>Opaco - Tejido a través del cual no se ve el cuerpo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Polyester&lt;/s0&gt; – It’s not just for old ladies.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230516T144926Z" creationid="pguer" creationdate="20230516T144926Z">
@@ -282,6 +314,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230516T145143Z" creationid="pguer" creationdate="20230516T145143Z">
         <seg>Rayón: es el sustituto de la seda, ya que es más barato y más duradero. El rayón suele mezclarse con otras fibras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Satin&lt;/s0&gt; – A soft, smooth fabric with a glossy face and dull back – very similar to Charmeuse.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145854Z" creationid="pguer" creationdate="20230516T145854Z">
+        <seg>Satén - Tejido suave y liso con un anverso brillante y un reverso opaco, muy similar a la charmeuse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Sheer&lt;/s0&gt; – Is full of small openings and can be sheer to semi-sheer.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145930Z" creationid="pguer" creationdate="20230516T145930Z">
+        <seg>Transparente - Está lleno de pequeñas aberturas y puede ser de transparente a semitransparente.</seg>
       </tuv>
     </tu>
     <tu>
