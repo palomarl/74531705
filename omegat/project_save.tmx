@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>According to sex surveys, 84% of Americans have tried masturbating... and odds are pretty good that the remaining 16% are fibbing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T143012Z" creationid="carme" creationdate="20230516T143012Z">
+        <seg>Según las encuestas sobre sexo, el 84% de los estadounidenses han intentado masturbarse... &lt;t0/&gt;y es bastante probable que el 16% restante esté mintiendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Acne is caused entirely by clogged pores due to an excess of sebum, an oily substance used to protect your skin.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T163540Z" creationid="OmegaT Aligner" creationdate="20230512T163540Z">
@@ -848,8 +856,8 @@
       <tuv lang="en">
         <seg>Elephants, bats and other species do it too!</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T163540Z" creationid="OmegaT Aligner" creationdate="20230512T163540Z">
-        <seg>Los elefantes, los murciélagos y otras especies también lo hacen.</seg>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T142929Z" creationid="OmegaT Aligner" creationdate="20230512T163540Z">
+        <seg>¡Los elefantes, los murciélagos y otras especies también lo hacen!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1816,8 +1824,8 @@
       <tuv lang="en">
         <seg>Masturbation might not be something you talk about around the family dinner table, but it’s still a perfectly healthy part of life.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T163540Z" creationid="OmegaT Aligner" creationdate="20230512T163540Z">
-        <seg>Puede que la masturbación no sea algo de lo que se hable en la mesa familiar, pero sigue siendo una parte perfectamente sana de la vida.</seg>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T142905Z" creationid="OmegaT Aligner" creationdate="20230512T163540Z">
+        <seg>Puede que la masturbación no sea algo de lo que se hable en la mesa familiar durante la cena, pero sigue siendo una parte perfectamente sana de la vida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1848,8 +1856,8 @@
       <tuv lang="en">
         <seg>Men and women have been masturbating before they learned how to make fire.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="carme" changedate="20230516T142728Z" creationid="OmegaT Aligner" creationdate="20230512T163540Z">
-        <seg>Los hombres y las mujeres han practicado la masturbación mucho antes de aprender a hacer fuego.</seg>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T142817Z" creationid="OmegaT Aligner" creationdate="20230512T163540Z">
+        <seg>La masturbación se ha practicado por parte de hombres y mujeres mucho antes de que aprendieran a hacer fuego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1944,8 +1952,8 @@
       <tuv lang="en">
         <seg>Odds are that everyone you meet during the day masturbates.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T163540Z" creationid="OmegaT Aligner" creationdate="20230512T163540Z">
-        <seg>Lo más probable es que todas las personas que conozcas a lo largo del día se masturben.</seg>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T142943Z" creationid="OmegaT Aligner" creationdate="20230512T163540Z">
+        <seg>Lo más probable es que todas las personas con las que te encuentres a lo largo del día se masturben.</seg>
       </tuv>
     </tu>
     <tu>
