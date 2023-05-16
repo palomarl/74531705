@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Chantilly Lace&lt;/s0&gt; – Delicate fabric made from an open, six-sided mesh with floral designs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T150036Z" creationid="pguer" creationdate="20230516T150036Z">
+        <seg>Encaje de Chantilly - Tejido delicado hecho de una malla abierta de seis lados con diseños florales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Charmeuse&lt;/s0&gt; – A lightweight fabric, the front is glossy whereas the back is dull.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230516T145648Z" creationid="pguer" creationdate="20230516T145648Z">
@@ -250,6 +258,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230516T145724Z" creationid="pguer" creationdate="20230516T145724Z">
         <seg>Chiffon - Tejido fino, ligero y transparente de nailon, rayón o seda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Cire&lt;/s0&gt; – Pronounced seer-ray, this fabric has a highly glazed, glossy finish.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T150228Z" creationid="pguer" creationdate="20230516T150228Z">
+        <seg>Cire - Pronunciado seer-ray&lt;t3/&gt;, este tejido tiene un acabado muy esmaltado y brillante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -282,6 +298,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230516T145403Z" creationid="pguer" creationdate="20230516T145403Z">
         <seg>Tejidos para lencería</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Lingerie Finishes and Decorations&lt;/s0&gt;&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145935Z" creationid="pguer" creationdate="20230516T145935Z">
+        <seg>Acabados y adornos de lencería</seg>
       </tuv>
     </tu>
     <tu>
@@ -4184,8 +4208,8 @@
       <tuv lang="en">
         <seg>These are the special elements that help make lingerie look so sexy.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T140948Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
-        <seg>Estos son los elementos especiales que contribuyen a que la lencería resulte tan sexy.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145957Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
+        <seg>Estos son los elementos especiales que hacen que la lencería nos resulte tan sexy.</seg>
       </tuv>
     </tu>
     <tu>
