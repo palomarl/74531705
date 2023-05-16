@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Lycra&lt;/s0&gt; - another synthetic is a lightweight material that is soft, extremely elastic and durable.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T144529Z" creationid="pguer" creationdate="20230516T144529Z">
+        <seg>Lycra: es otro material sintético ligero, además de suave, extremadamente elástico y duradero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Silk&lt;/s0&gt; – also a natural fiber that is popular lingerie material that feels sexy against the skin and has beautiful movement.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230516T144049Z" creationid="pguer" creationdate="20230516T144049Z">
@@ -1752,8 +1760,8 @@
       <tuv lang="en">
         <seg>Lycra is always blended with other fibers and therefore washing should be based on what the primary fiber is.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T140948Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
-        <seg>La lycra siempre se mezcla con otras fibras y, por lo tanto, el lavado debe basarse en cuál es la fibra principal.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230516T144709Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
+        <seg>La lycra siempre se mezcla con otras fibras y, por lo tanto, debería lavarse dependiendo de cuál sea la fibra principal.</seg>
       </tuv>
     </tu>
     <tu>
