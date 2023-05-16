@@ -832,8 +832,8 @@
       <tuv lang="en">
         <seg>Even if your toy is supposed to be waterproof, it’s better to play it safe then end up with a vibrator that no longer vibes.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T164914Z" creationid="OmegaT Aligner" creationdate="20230512T164914Z">
-        <seg>Aunque se suponga que el juguete es resistente al agua, es mejor ir sobre seguro que acabar con un vibrador que ya no vibra.</seg>
+      <tuv lang="es-ES" changeid="palom" changedate="20230516T141438Z" creationid="OmegaT Aligner" creationdate="20230512T164914Z">
+        <seg>Aunque se supone que el juguete es resistente al agua, es mejor ir sobre seguro que acabar con un vibrador que ya no vibra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1512,8 +1512,8 @@
       <tuv lang="en">
         <seg>Just remember to keep the motor and battery compartment dry.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T164914Z" creationid="OmegaT Aligner" creationdate="20230512T164914Z">
-        <seg>Sólo tienes que acordarte de mantener secos el motor y el compartimento de las pilas.</seg>
+      <tuv lang="es-ES" changeid="palom" changedate="20230516T141412Z" creationid="OmegaT Aligner" creationdate="20230512T164914Z">
+        <seg>Solo tienes que acordarte de mantener secos el motor y el compartimento de las pilas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3187,6 +3187,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T140948Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
         <seg>Al aplicar un cupón que supere ese porcentaje, el descuento aplicado se reducirá automáticamente a la cantidad máxima permitida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When cleaning sex toys, it’s really best to use a special &lt;a0&gt;&lt;u1&gt;sex toy cleaner&lt;/u1&gt;&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="palom" changedate="20230516T141639Z" creationid="palom" creationdate="20230516T141639Z">
+        <seg>Para limpiar los juguetes eróticos, lo mejor es utilizar un limpiador especial para juguetes eróticos.</seg>
       </tuv>
     </tu>
     <tu>
