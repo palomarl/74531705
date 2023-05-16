@@ -2950,6 +2950,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Quantity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T145357Z" creationid="carme" creationdate="20230516T145357Z">
+        <seg>Cantidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quantity:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T145351Z" creationid="carme" creationdate="20230516T145351Z">
+        <seg>Cantidad:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Quick press the power button to cycle through the different suction modes.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T165858Z" creationid="OmegaT Aligner" creationdate="20230512T165858Z">
@@ -3074,6 +3090,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T165858Z" creationid="OmegaT Aligner" creationdate="20230512T165858Z">
         <seg>Vuelve a colocar la tapa en forma de manzana antes de guardarlo hasta la próxima vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reviews</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T145340Z" creationid="carme" creationdate="20230516T145340Z">
+        <seg>Reseñas</seg>
       </tuv>
     </tu>
     <tu>
