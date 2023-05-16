@@ -6,10 +6,58 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>#Are There Any Side Effects to Masturbation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T144845Z" creationid="carme" creationdate="20230516T144845Z">
+        <seg>¿La masturbación tiene efectos secundarios?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#Common Masturbation Questions</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T144907Z" creationid="carme" creationdate="20230516T144907Z">
+        <seg>Preguntas frecuentes sobre la masturbación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>#How to Masturbate</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230502T135647Z" creationid="OmegaT Aligner" creationdate="20230502T135647Z">
         <seg>#Cómo masturbarse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#How to Masturbate for Men</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T144850Z" creationid="carme" creationdate="20230516T144850Z">
+        <seg>Cómo masturbarse (para hombres)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#How to Masturbate for Women</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T144852Z" creationid="carme" creationdate="20230516T144852Z">
+        <seg>Cómo masturbarse (para mujeres)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#What are the Benefits of Masturbation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T144842Z" creationid="carme" creationdate="20230516T144842Z">
+        <seg>¿Cuáles son los beneficios de la masturbación?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#What is Masturbation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="carme" changedate="20230516T144839Z" creationid="carme" creationdate="20230516T144839Z">
+        <seg>¿Qué es la masturbación?</seg>
       </tuv>
     </tu>
     <tu>
