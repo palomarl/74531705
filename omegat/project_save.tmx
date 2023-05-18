@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Embroidery&lt;/s0&gt; – Designs sewn in to a fabric by machine or hand.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T151357Z" creationid="pguer" creationdate="20230518T151357Z">
+        <seg>Bordado - Dibujos cosidos a máquina o a mano en un tejido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Eyelash lace&lt;/s0&gt; – Lace garment with very short strands at the edges that look like eyelashes.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230518T151323Z" creationid="pguer" creationdate="20230518T151323Z">
@@ -302,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Lace&lt;/s0&gt; – Delicate fabric made of yarn.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T151435Z" creationid="pguer" creationdate="20230518T151435Z">
+        <seg>Encaje - Tejido delicado hecho de hilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Lingerie Fabrics&lt;/s0&gt;&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230516T145403Z" creationid="pguer" creationdate="20230516T145403Z">
@@ -322,6 +338,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230516T143420Z" creationid="pguer" creationdate="20230516T143420Z">
         <seg>Materiales de la lencería</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Lining&lt;/s0&gt; – Material that is sewn into the inside of a garment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T151511Z" creationid="pguer" creationdate="20230518T151511Z">
+        <seg>Forro - Material cosido en el interior de una prenda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -394,6 +418,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230516T145930Z" creationid="pguer" creationdate="20230516T145930Z">
         <seg>Transparente - Está lleno de pequeñas aberturas y puede ser de transparente a semitransparente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Shimmer&lt;/s0&gt; – A fabric that shines and reflects light.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T151633Z" creationid="pguer" creationdate="20230518T151633Z">
+        <seg>Brillo - Tejido que brilla y refleja la luz.</seg>
       </tuv>
     </tu>
     <tu>
