@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Eyelash lace&lt;/s0&gt; – Lace garment with very short strands at the edges that look like eyelashes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T151323Z" creationid="pguer" creationdate="20230518T151323Z">
+        <seg>Encaje de pestañas - Prenda de encaje con hilos muy cortos en los bordes que parecen pestañas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Faux Leather&lt;/s0&gt; - is a man-made material often used in edgier lingerie, faux leather can have many different looks ranging from patent leather to plastic (also referred to as PVC).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230516T144329Z" creationid="pguer" creationdate="20230516T144329Z">
