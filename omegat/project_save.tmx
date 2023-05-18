@@ -248,16 +248,16 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Charmeuse&lt;/s0&gt; – A lightweight fabric, the front is glossy whereas the back is dull.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145648Z" creationid="pguer" creationdate="20230516T145648Z">
-        <seg>Charmeuse - Es un tejido ligero, el anverso es brillante y el reverso mate.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152242Z" creationid="pguer" creationdate="20230516T145648Z">
+        <seg>&lt;s0&gt;Charmeuse&lt;/s0&gt; - Es un tejido ligero, el anverso es brillante y el reverso mate.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;s0&gt;Chiffon&lt;/s0&gt; – Sheer, lightweight, thin fabric made of nylon, rayon or silk.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145724Z" creationid="pguer" creationdate="20230516T145724Z">
-        <seg>Chiffon - Tejido fino, ligero y transparente de nailon, rayón o seda.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152258Z" creationid="pguer" creationdate="20230516T145724Z">
+        <seg>&lt;s0&gt;Chiffon&lt;/s0&gt; - Tejido fino, ligero y transparente de nailon, rayón o seda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -272,8 +272,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Cotton&lt;/s0&gt; - is a natural fiber that allows the skin to breathe and comes in great colors.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230516T143939Z" creationid="pguer" creationdate="20230516T143939Z">
-        <seg>Algodón: es una fibra natural que deja a la piel respirar y está disponible en magníficos colores.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152010Z" creationid="pguer" creationdate="20230516T143939Z">
+        <seg>&lt;s0&gt;Algodón&lt;/s0&gt; - es una fibra natural que deja respirar la piel y está disponible en magníficos colores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -296,8 +296,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Faux Leather&lt;/s0&gt; - is a man-made material often used in edgier lingerie, faux leather can have many different looks ranging from patent leather to plastic (also referred to as PVC).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230516T144329Z" creationid="pguer" creationdate="20230516T144329Z">
-        <seg>Piel sintética: es un material artificial que se utiliza sobre todo en la lencería más atrevida. La piel sintética puede tener diferentes apariencias, desde el charol hasta el plástico (también conocido como PVC).</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152041Z" creationid="pguer" creationdate="20230516T144329Z">
+        <seg>&lt;s0&gt;Piel sintética&lt;/s0&gt; - es un material artificial que se utiliza sobre todo en la lencería más atrevida. La piel sintética puede tener diferentes apariencias, desde el charol hasta el plástico (también conocido como PVC).</seg>
       </tuv>
     </tu>
     <tu>
@@ -320,8 +320,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Lingerie Fabrics&lt;/s0&gt;&lt;br1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145403Z" creationid="pguer" creationdate="20230516T145403Z">
-        <seg>Tejidos para lencería</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152226Z" creationid="pguer" creationdate="20230516T145403Z">
+        <seg>&lt;s0&gt;Tejidos para lencería&lt;/s0&gt;&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -352,8 +352,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Lycra&lt;/s0&gt; - another synthetic is a lightweight material that is soft, extremely elastic and durable.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230516T144529Z" creationid="pguer" creationdate="20230516T144529Z">
-        <seg>Lycra: es otro material sintético ligero, además de suave, extremadamente elástico y duradero.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152055Z" creationid="pguer" creationdate="20230516T144529Z">
+        <seg>&lt;s0&gt;Lycra&lt;/s0&gt; - es otro material sintético ligero, además de suave, extremadamente elástico y duradero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -368,16 +368,16 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Microfiber&lt;/s0&gt; – A man made blend of polyester and polyamide, frabics made with microfibers are exceptionally soft and hold their shape well.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145336Z" creationid="pguer" creationdate="20230516T145336Z">
-        <seg>Microfibra - Mezcla sintética de poliéster y poliamida. Los tejidos hechos de microfibra son muy suaves y mantienen bien su forma.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152156Z" creationid="pguer" creationdate="20230516T145336Z">
+        <seg>&lt;s0&gt;Microfibra&lt;/s0&gt; - Mezcla sintética de poliéster y poliamida. Los tejidos hechos de microfibra son muy suaves y mantienen bien su forma.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;s0&gt;Nylon&lt;/s0&gt; – most commonly remembered for nylon stockings or “nylons”, nylon is used in many easy to care for garments.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230516T144854Z" creationid="pguer" creationdate="20230516T144854Z">
-        <seg>Nylon - es más conocido por las medias de nylon o "nylons". El nylon se utiliza en muchas prendas fáciles de cuidar.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152109Z" creationid="pguer" creationdate="20230516T144854Z">
+        <seg>&lt;s0&gt;Nylon&lt;/s0&gt; - es más conocido por las medias de nylon o "nylons". El nylon se utiliza en muchas prendas fáciles de cuidar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -392,16 +392,16 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Polyester&lt;/s0&gt; – It’s not just for old ladies.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230516T144926Z" creationid="pguer" creationdate="20230516T144926Z">
-        <seg>Poliéster - No es sólo para señoras mayores.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152123Z" creationid="pguer" creationdate="20230516T144926Z">
+        <seg>&lt;s0&gt;Poliéster&lt;/s0&gt; - No es sólo para señoras mayores.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;s0&gt;Rayon&lt;/s0&gt; – a less expensive and more durable substitute for silk, rayon is often blended with other fibers.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145143Z" creationid="pguer" creationdate="20230516T145143Z">
-        <seg>Rayón: es el sustituto de la seda, ya que es más barato y más duradero. El rayón suele mezclarse con otras fibras.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152142Z" creationid="pguer" creationdate="20230516T145143Z">
+        <seg>&lt;s0&gt;Rayón&lt;/s0&gt; - es el sustituto de la seda, ya que es más barato y más duradero. El rayón suele mezclarse con otras fibras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -432,8 +432,16 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Silk&lt;/s0&gt; – also a natural fiber that is popular lingerie material that feels sexy against the skin and has beautiful movement.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230516T144049Z" creationid="pguer" creationdate="20230516T144049Z">
-        <seg>Seda: también es una fibra natural, un material muy popular en lencería por su tacto sexy sobre la piel y su bonito movimiento.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152026Z" creationid="pguer" creationdate="20230516T144049Z">
+        <seg>&lt;s0&gt;Seda&lt;/s0&gt; - también es una fibra natural, un material muy popular en lencería por su tacto sexy sobre la piel y su bonito movimiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Studs&lt;/s0&gt; – Small metal ornament that is raised off the fabric.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T151710Z" creationid="pguer" creationdate="20230518T151710Z">
+        <seg>Tachuelas - Pequeño adorno metálico que sobresale del tejido.</seg>
       </tuv>
     </tu>
     <tu>
