@@ -336,16 +336,16 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Lingerie Materials&lt;/s0&gt;&lt;br1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230516T143420Z" creationid="pguer" creationdate="20230516T143420Z">
-        <seg>Materiales de la lencería</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152652Z" creationid="pguer" creationdate="20230516T143420Z">
+        <seg>&lt;s0&gt;Materiales de la lencería&lt;/s0&gt;&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;s0&gt;Lining&lt;/s0&gt; – Material that is sewn into the inside of a garment.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230518T151511Z" creationid="pguer" creationdate="20230518T151511Z">
-        <seg>Forro - Material cosido en el interior de una prenda.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152605Z" creationid="pguer" creationdate="20230518T151511Z">
+        <seg>&lt;s0&gt;Forro&lt;/s0&gt; - Material cosido en el interior de una prenda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -424,8 +424,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Shimmer&lt;/s0&gt; – A fabric that shines and reflects light.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230518T151633Z" creationid="pguer" creationdate="20230518T151633Z">
-        <seg>Brillo - Tejido que brilla y refleja la luz.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152614Z" creationid="pguer" creationdate="20230518T151633Z">
+        <seg>&lt;s0&gt;Brillo&lt;/s0&gt; - Tejido que brilla y refleja la luz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -440,8 +440,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Studs&lt;/s0&gt; – Small metal ornament that is raised off the fabric.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230518T151710Z" creationid="pguer" creationdate="20230518T151710Z">
-        <seg>Tachuelas - Pequeño adorno metálico que sobresale del tejido.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152623Z" creationid="pguer" creationdate="20230518T151710Z">
+        <seg>&lt;s0&gt;Tachuelas&lt;/s0&gt; - Pequeño adorno metálico que sobresale del tejido.</seg>
       </tuv>
     </tu>
     <tu>
