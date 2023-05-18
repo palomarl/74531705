@@ -240,8 +240,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Chantilly Lace&lt;/s0&gt; – Delicate fabric made from an open, six-sided mesh with floral designs.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230516T150036Z" creationid="pguer" creationdate="20230516T150036Z">
-        <seg>Encaje de Chantilly - Tejido delicado hecho de una malla abierta de seis lados con diseños florales.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152512Z" creationid="pguer" creationdate="20230516T150036Z">
+        <seg>&lt;s0&gt;Encaje de Chantilly&lt;/s0&gt; - Tejido delicado hecho de una malla abierta de seis lados con diseños florales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -264,8 +264,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Cire&lt;/s0&gt; – Pronounced seer-ray, this fabric has a highly glazed, glossy finish.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230518T151137Z" creationid="pguer" creationdate="20230516T150228Z">
-        <seg>Cire - Con un entreabierto pronunciado, este tejido tiene un acabado satinado y brillante.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152525Z" creationid="pguer" creationdate="20230516T150228Z">
+        <seg>&lt;s0&gt;Cire&lt;/s0&gt; - Con un entreabierto pronunciado, este tejido tiene un acabado satinado y brillante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -280,16 +280,16 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Embroidery&lt;/s0&gt; – Designs sewn in to a fabric by machine or hand.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230518T151357Z" creationid="pguer" creationdate="20230518T151357Z">
-        <seg>Bordado - Dibujos cosidos a máquina o a mano en un tejido.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152545Z" creationid="pguer" creationdate="20230518T151357Z">
+        <seg>&lt;s0&gt;Bordado&lt;/s0&gt; - Dibujos cosidos a máquina o a mano en un tejido.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;s0&gt;Eyelash lace&lt;/s0&gt; – Lace garment with very short strands at the edges that look like eyelashes.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230518T151323Z" creationid="pguer" creationdate="20230518T151323Z">
-        <seg>Encaje de pestañas - Prenda de encaje con hilos muy cortos en los bordes que parecen pestañas.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152535Z" creationid="pguer" creationdate="20230518T151323Z">
+        <seg>&lt;s0&gt;Encaje de pestañas&lt;/s0&gt; - Prenda de encaje con hilos muy cortos en los bordes que parecen pestañas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -304,16 +304,16 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Jacquard&lt;/s0&gt; – Fabric that is woven to create and effect of a pattern or print.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145749Z" creationid="pguer" creationdate="20230516T145749Z">
-        <seg>Jacquard - Tejido que se teje con la intención de crear un efecto de patrón o estampado.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152318Z" creationid="pguer" creationdate="20230516T145749Z">
+        <seg>&lt;s0&gt;Jacquard&lt;/s0&gt; - Tejido que se teje con la intención de crear un efecto de patrón o estampado.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;s0&gt;Lace&lt;/s0&gt; – Delicate fabric made of yarn.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230518T151435Z" creationid="pguer" creationdate="20230518T151435Z">
-        <seg>Encaje - Tejido delicado hecho de hilo.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152554Z" creationid="pguer" creationdate="20230518T151435Z">
+        <seg>&lt;s0&gt;Encaje&lt;/s0&gt; - Tejido delicado hecho de hilo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -328,8 +328,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Lingerie Finishes and Decorations&lt;/s0&gt;&lt;br1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145935Z" creationid="pguer" creationdate="20230516T145935Z">
-        <seg>Acabados y adornos de lencería</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152420Z" creationid="pguer" creationdate="20230516T145935Z">
+        <seg>&lt;s0&gt;Acabados y adornos de lencería&lt;/s0&gt;&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -360,8 +360,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Mesh&lt;/s0&gt; – Is full of small openings and can be sheer to semi-sheer.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145814Z" creationid="pguer" creationdate="20230516T145814Z">
-        <seg>Malla - está llena de pequeñas aberturas y puede ser transparente o semitransparente.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152330Z" creationid="pguer" creationdate="20230516T145814Z">
+        <seg>&lt;s0&gt;Malla&lt;/s0&gt; - está llena de pequeñas aberturas y puede ser transparente o semitransparente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -384,8 +384,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Opaque&lt;/s0&gt; – A fabric in which the body cannot be seen through the garment.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145827Z" creationid="pguer" creationdate="20230516T145827Z">
-        <seg>Opaco - Tejido a través del cual no se ve el cuerpo.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152343Z" creationid="pguer" creationdate="20230516T145827Z">
+        <seg>&lt;s0&gt;Opaco&lt;/s0&gt; - Tejido a través del cual no se ve el cuerpo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -408,16 +408,16 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Satin&lt;/s0&gt; – A soft, smooth fabric with a glossy face and dull back – very similar to Charmeuse.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145854Z" creationid="pguer" creationdate="20230516T145854Z">
-        <seg>Satén - Tejido suave y liso con un anverso brillante y un reverso opaco, muy similar a la charmeuse.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152359Z" creationid="pguer" creationdate="20230516T145854Z">
+        <seg>&lt;s0&gt;Satén&lt;/s0&gt; - Tejido suave y liso con un anverso brillante y un reverso opaco, muy similar a la charmeuse.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;s0&gt;Sheer&lt;/s0&gt; – Is full of small openings and can be sheer to semi-sheer.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230516T145930Z" creationid="pguer" creationdate="20230516T145930Z">
-        <seg>Transparente - Está lleno de pequeñas aberturas y puede ser de transparente a semitransparente.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152411Z" creationid="pguer" creationdate="20230516T145930Z">
+        <seg>&lt;s0&gt;Transparente&lt;/s0&gt; - Está lleno de pequeñas aberturas y puede ser de transparente a semitransparente.</seg>
       </tuv>
     </tu>
     <tu>
