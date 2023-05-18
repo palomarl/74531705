@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>3 inches tall, 2.28 inches wide</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T154028Z" creationid="pguer" creationdate="20230518T154028Z">
+        <seg>8 centímetros de alto, 6 centímetros de ancho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>3.6 stars of 5 rating</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T164102Z" creationid="OmegaT Aligner" creationdate="20230512T164102Z">
@@ -1376,8 +1384,8 @@
       <tuv lang="en">
         <seg>Easy single button control with LED light</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T140948Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
-        <seg>- Fácil control con un solo botón y luz LED</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T153916Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
+        <seg>Fácil control con un solo botón y luz LED</seg>
       </tuv>
     </tu>
     <tu>
@@ -1496,8 +1504,8 @@
       <tuv lang="en">
         <seg>Feel 10 pulsating air functions from mild to wild</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T140948Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
-        <seg>- Siente 10 funciones de aire pulsante de suave a salvaje</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T153815Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
+        <seg>Prueba 10 funciones de aire comprimido, desde la más suave hasta la más salvaje</seg>
       </tuv>
     </tu>
     <tu>
@@ -2168,8 +2176,8 @@
       <tuv lang="en">
         <seg>In luxurious silicone with ABS plastic base</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T140948Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
-        <seg>- De lujosa silicona con base de plástico ABS</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T153907Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
+        <seg>Hecho de silicona de alta calidad con base de plástico ABS</seg>
       </tuv>
     </tu>
     <tu>
@@ -3536,8 +3544,8 @@
       <tuv lang="en">
         <seg>Smooth opening feels even better with lube</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T140948Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
-        <seg>- Su suave abertura se siente aún mejor con lubricante</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T153841Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
+        <seg>Su suave abertura se siente aún mejor con lubricante</seg>
       </tuv>
     </tu>
     <tu>
