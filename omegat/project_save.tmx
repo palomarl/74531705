@@ -264,8 +264,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Cire&lt;/s0&gt; – Pronounced seer-ray, this fabric has a highly glazed, glossy finish.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230516T150228Z" creationid="pguer" creationdate="20230516T150228Z">
-        <seg>Cire - Pronunciado seer-ray&lt;t3/&gt;, este tejido tiene un acabado muy esmaltado y brillante.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230518T133717Z" creationid="pguer" creationdate="20230516T150228Z">
+        <seg>- &lt;t0/&gt;Cire&lt;t1/&gt; - Pronunciado &lt;t2/&gt;seer-ray&lt;t3/&gt;, este tejido tiene un acabado muy esmaltado y brillante.</seg>
       </tuv>
     </tu>
     <tu>
