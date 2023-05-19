@@ -1104,8 +1104,8 @@
       <tuv lang="en">
         <seg>Buzz Your Kitty &amp; G-Spot Anywhere &amp; Anytime You Want!</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T140948Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
-        <seg>¡Haz vibrar tu gatito y tu punto G donde y cuando quieras!</seg>
+      <tuv lang="es-ES" changeid="carme" changedate="20230519T150959Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
+        <seg>¡Haz vibrar tu conejito y tu punto G donde y cuando quieras!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5331,6 +5331,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T164914Z" creationid="OmegaT Aligner" creationdate="20230512T164914Z">
         <seg>Estás bastante seguro de que limpiaste tu juguete después de la última vez que lo usaste, y parece limpio cuando lo sacas de la bolsa de almacenamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="carme" changedate="20230428T153917Z" creationid="carme" creationdate="20230428T153917Z">
+        <seg>es</seg>
       </tuv>
     </tu>
     <tu>
