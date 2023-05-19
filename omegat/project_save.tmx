@@ -488,8 +488,8 @@
       <tuv lang="en">
         <seg>A ‘gasm a day keeps the doctor away!</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="USUARIO" changedate="20230516T143052Z" creationid="USUARIO" creationdate="20230516T143052Z">
-        <seg>Un orgasmo al día mantiene alejado al médico.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230519T164446Z" creationid="USUARIO" creationdate="20230516T143052Z">
+        <seg>!Un orgasmo al día mantiene alejado al médico!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2800,8 +2800,8 @@
       <tuv lang="en">
         <seg>Measures 3.6 inches high by 2.7 inches wide</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T165858Z" creationid="OmegaT Aligner" creationdate="20230512T165858Z">
-        <seg>Mide 3,6 pulgadas de alto por 2,7 pulgadas de ancho</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230519T164324Z" creationid="OmegaT Aligner" creationdate="20230512T165858Z">
+        <seg>Mide 9 centímetros de alto por 7 centímetros de ancho</seg>
       </tuv>
     </tu>
     <tu>
