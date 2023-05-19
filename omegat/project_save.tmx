@@ -264,8 +264,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Chiffon&lt;/s0&gt; – Sheer, lightweight, thin fabric made of nylon, rayon or silk.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152258Z" creationid="pguer" creationdate="20230516T145724Z">
-        <seg>&lt;s0&gt;Chiffon&lt;/s0&gt; - Tejido fino, ligero y transparente de nailon, rayón o seda.</seg>
+      <tuv lang="es-ES" changeid="carme" changedate="20230519T154522Z" creationid="pguer" creationdate="20230516T145724Z">
+        <seg>&lt;s0&gt;Chifón&lt;/s0&gt; - Tejido fino, ligero y transparente de nailon, rayón o seda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -408,8 +408,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Rayon&lt;/s0&gt; – a less expensive and more durable substitute for silk, rayon is often blended with other fibers.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152142Z" creationid="pguer" creationdate="20230516T145143Z">
-        <seg>&lt;s0&gt;Rayón&lt;/s0&gt; - es el sustituto de la seda, ya que es más barato y más duradero. El rayón suele mezclarse con otras fibras.</seg>
+      <tuv lang="es-ES" changeid="carme" changedate="20230519T154312Z" creationid="pguer" creationdate="20230516T145143Z">
+        <seg>&lt;s0&gt;Rayón&lt;/s0&gt; - Es el sustituto de la seda, ya que es más barato y más duradero. El rayón suele mezclarse con otras fibras.</seg>
       </tuv>
     </tu>
     <tu>
