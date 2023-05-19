@@ -280,8 +280,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Cotton&lt;/s0&gt; - is a natural fiber that allows the skin to breathe and comes in great colors.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230518T152010Z" creationid="pguer" creationdate="20230516T143939Z">
-        <seg>&lt;s0&gt;Algodón&lt;/s0&gt; - es una fibra natural que deja respirar la piel y está disponible en magníficos colores.</seg>
+      <tuv lang="es-ES" changeid="carme" changedate="20230519T153616Z" creationid="pguer" creationdate="20230516T143939Z">
+        <seg>&lt;s0&gt;Algodón&lt;/s0&gt; - Es una fibra natural que deja respirar la piel y está disponible en magníficos colores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1224,8 +1224,8 @@
       <tuv lang="en">
         <seg>Cotton washes well and is pretty durable but beware of possible shrinkage.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230516T144006Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
-        <seg>El algodón se lava bien y es bastante duradero, pero ten cuidado porque es posible que se encoja.</seg>
+      <tuv lang="es-ES" changeid="carme" changedate="20230519T153826Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
+        <seg>El algodón se lava bien y es bastante duradero, pero ten cuidado porque es posible que encoja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3824,8 +3824,8 @@
       <tuv lang="en">
         <seg>That can make buying lingerie more than a little confusing, especially if you're not sure what all the different terms mean.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="pguer" changedate="20230516T143412Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
-        <seg>Esto puede hacer un poco confusa la compra de lencería, sobre todo si no estás segura de lo que conlleva acda elección.</seg>
+      <tuv lang="es-ES" changeid="carme" changedate="20230519T153525Z" creationid="OmegaT Aligner" creationdate="20230516T140948Z">
+        <seg>Esto puede hacer un poco confusa la compra de lencería, sobre todo si no estás segura de lo que conlleva cada elección.</seg>
       </tuv>
     </tu>
     <tu>
