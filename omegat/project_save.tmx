@@ -4328,8 +4328,8 @@
       <tuv lang="en">
         <seg>These materials go by many different names including Cyberskin, UR3 and PureSkin, but most of them contain “skin” in the name.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T164914Z" creationid="OmegaT Aligner" creationdate="20230512T164914Z">
-        <seg>Estos materiales reciben muchos nombres diferentes, como Cyberskin, UR3 y PureSkin, pero la mayoría incluyen "piel" en el nombre.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230519T163133Z" creationid="OmegaT Aligner" creationdate="20230512T164914Z">
+        <seg>Estos materiales reciben muchos nombres diferentes, como Cyberskin, UR3 y PureSkin, pero la mayoría incluyen la palabra "piel" en el nombre.</seg>
       </tuv>
     </tu>
     <tu>
