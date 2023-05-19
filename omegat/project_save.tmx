@@ -3144,8 +3144,8 @@
       <tuv lang="en">
         <seg>Please note that results may vary depending on the user’s physical condition, body chemistry and other factors.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T164102Z" creationid="OmegaT Aligner" creationdate="20230512T164102Z">
-        <seg>Tenga en cuenta que los resultados pueden variar en función de la condición física, la química corporal y otros factores del usuario.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230519T160415Z" creationid="OmegaT Aligner" creationdate="20230512T164102Z">
+        <seg>Ten en cuenta que los resultados pueden variar en función de la condición física, la química corporal y otros factores del usuario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4096,8 +4096,8 @@
       <tuv lang="en">
         <seg>The sensitizer comes in a 0.5 oz bottle with a screw top.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T164102Z" creationid="OmegaT Aligner" creationdate="20230512T164102Z">
-        <seg>El sensibilizador se presenta en un frasco de 0,5 oz con tapón de rosca.</seg>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230519T160508Z" creationid="OmegaT Aligner" creationdate="20230512T164102Z">
+        <seg>El sensibilizador viene en un frasco de 14 gramos con tapón de rosca</seg>
       </tuv>
     </tu>
     <tu>
