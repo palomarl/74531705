@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Play The Hottest Game Ever – Together!&lt;/s0&gt;&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230521T095909Z" creationid="pguer" creationdate="20230521T095909Z">
+        <seg>&lt;s0&gt;Jugad al juego más caliente de la historia... ¡juntos!&lt;/s0&gt;&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Polyester&lt;/s0&gt; – It’s not just for old ladies.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="pguer" changedate="20230518T152123Z" creationid="pguer" creationdate="20230516T144926Z">
@@ -1410,6 +1418,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T164955Z" creationid="OmegaT Aligner" creationdate="20230512T164955Z">
         <seg>Enviar este artículo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Endorsed by Men's Health magazine &amp; U.S.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230521T095957Z" creationid="pguer" creationdate="20230521T095957Z">
+        <seg>¡Recomendado por la revista Men's Health y por la</seg>
       </tuv>
     </tu>
     <tu>
@@ -5355,6 +5371,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230502T135601Z" creationid="OmegaT Aligner" creationdate="20230502T135601Z">
         <seg>https://www.adameve.com/search.aspx?st=cleaners&amp;category=1|sexy+extras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sexpert Dr. Emily Morse!</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="pguer" changedate="20230521T100027Z" creationid="pguer" creationdate="20230521T100027Z">
+        <seg>doctora estadounidense Emily Morse, ¡experta en sexo!</seg>
       </tuv>
     </tu>
     <tu>
